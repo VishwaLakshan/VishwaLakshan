@@ -4,7 +4,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwalakshan" alt="vishwalakshan" /></a> </p>
 
 - 🌱 I’m currently learning **Python|Deep-learning|Data science|Mearn**
-
+- 🧑‍🎓 I’m an Undergraduate at **Department of Computer Science And Informatics**
+- 🧑‍🎓 I’m a Student at Uva Wellassa University of Sri Lanka
+- 💬 Ask me about **Python, Java**
+- 📫 How to reach me **vishwadimbulana1999@gamil.com**
 - ⚡ Fun fact **music**
 
 <h3 align="left">Connect with me:</h3>
