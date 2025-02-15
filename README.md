@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Python|Deep-learning|Data science|Mearn**
 - 🧑‍🎓 I’m an Undergraduate at **Department of Computer Science And Informatics**
-- 🧑‍🎓 I’m a Student at Uva Wellassa University of Sri Lanka
-- 💬 Ask me about **Python, Java**
+- 🧑‍🎓 I’m a Student at **Uva Wellassa University of Sri Lanka**
 - 📫 How to reach me **vishwadimbulana1999@gmail.com**
 - ⚡ Fun fact **music**
 
