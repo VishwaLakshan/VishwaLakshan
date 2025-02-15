@@ -7,7 +7,7 @@
 - 🧑‍🎓 I’m an Undergraduate at **Department of Computer Science And Informatics**
 - 🧑‍🎓 I’m a Student at Uva Wellassa University of Sri Lanka
 - 💬 Ask me about **Python, Java**
-- 📫 How to reach me **vishwadimbulana1999@gamil.com**
+- 📫 How to reach me **vishwadimbulana1999@gmail.com**
 - ⚡ Fun fact **music**
 
 <h3 align="left">Connect with me:</h3>
